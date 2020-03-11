@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxuchoani.lijiaqi.name/sitemap.xml
